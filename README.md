@@ -1,6 +1,6 @@
 # DSA_Challenge_2_Recommendation_System
 
-cHALLENGE-2 MY DEMO : https://dsa-challenge-2.herokuapp.com
+CHALLENGE-2 Deployed App | MY DEMO : https://dsa-challenge-2.herokuapp.com
 
 Data Sets Link : https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 
